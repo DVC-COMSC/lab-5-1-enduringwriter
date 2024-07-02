@@ -1,16 +1,15 @@
 def getinput():
-    userval1 = input('Enter value: ')
-    return userval1
+    v1 = int(input('Enter number: '))
+    v2 = int(input('Enter number: '))
+    return v1, v2
 
 def getsum(v1, v2):
-    userval1 = int(input('Enter number: '))
-    userval2 = int(input('Enter number: '))
+    total = v1 + v2
+    return total
 
 def printval(v1, v2, total):
-    # ******************************
-    # Make your Code
-    # ******************************
-
+    print(f'First value: '{v1})
+    print(f'First value: '{v1})
 
 def main():
     userval1 = getinput()
