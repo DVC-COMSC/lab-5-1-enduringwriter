@@ -8,8 +8,7 @@ def getsum(v1, v2):
     return total
 
 def printval(v1, v2, total):
-    print(f'First value: '{v1})
-    print(f'First value: '{v1})
+    print(f'Total value: '{total})
 
 def main():
     userval1 = getinput()
