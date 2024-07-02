@@ -1,3 +1,7 @@
+"""
+Learn id() function values and defining usable functions. 
+"""
+
 def getinput(n1, n2):
     print('At function start id n1', id(n1))
     print('At function start id n2', id(n2))
