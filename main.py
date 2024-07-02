@@ -1,7 +1,5 @@
 def getinput():
-    # ******************************
-    # Make your Code
-    # ******************************
+    userval1 = getinput()
 
 
 def getsum(v1, v2):
